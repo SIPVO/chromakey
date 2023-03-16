@@ -29,7 +29,7 @@ This is Chroma Key!
 
 After having the coding file, you run it. And here is the description to get the result you desired:
 * After changing paths to your images, the original image (the one that have the backgound you want to replace) show up. Crop the block of color by clicking your mouse and release it. The image you've just cropped will appear.
-  * If it have the color of the background you want to replace, then type "c".
+  * If it have the color of the background you want to replace, then type "c" to continue.
   * Or else, type "r" to repeat this process.
 * Then, your final image will come into view. Good luck!!
 
