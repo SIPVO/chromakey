@@ -19,7 +19,7 @@ An alternative background
 
 ![hurricane](https://user-images.githubusercontent.com/75088003/225690252-07634b00-2d32-402a-a9bd-4f64c570df5d.jpg) 
 
-And then voilà,
+And voilà,
 
 ![Chromakey](https://user-images.githubusercontent.com/75088003/225690513-e11b936c-0688-46a0-9415-66eb87e3dd53.jpg)
 
